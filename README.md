@@ -1,5 +1,5 @@
 # IPL-2025-SQL-Analysis-top-Batting
-In Previous Quary I did not take strike rate for performance which is crucial for T20 Match. In this quary we will anlyse performance based on Total run performed, Average and Strike Rate as well
+In Previous Quary I did not take strike rate for performance which is crucial for T20 Match. In this quary we will anlyse performance based on Total run performed, Average and Strike Rate as well.
 # IPL 2025 SQL Analysis
 
 A ball-by-ball SQL analysis of the IPL 2025 season using delivery-level data. This project demonstrates real-world SQL skills including CTEs, conditional aggregation, and cricket specific calculations.
