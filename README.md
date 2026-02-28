@@ -1,36 +1,9 @@
-# IPL-2025-SQL-Analysis-top-Batting
-In Previous Quary I did not take strike rate for performance which is crucial for T20 Match. In this quary we will anlyse performance based on Total run performed, Average and Strike Rate as well.
-# IPL 2025 SQL Analysis
-
-A ball-by-ball SQL analysis of the IPL 2025 season using delivery-level data. This project demonstrates real-world SQL skills including CTEs, conditional aggregation, and cricket specific calculations.
-
----
-
-## Dataset
+# Dataset
 
 - Source: [Kaggle – IPL 2025 Ball by Ball Data](https://www.kaggle.com/) (https://www.kaggle.com/datasets/sahiltailor/cricket-ball-by-ball-dataset)
 - Rows: ~17,000 deliveries
 - Matches: 74 (Group Stage → Final)
 - Columns: `match_id, season, phase, match_no, date, venue, batting_team, bowling_team, innings, over, striker, bowler, runs_of_bat, extras, wide, legbyes, byes, noballs, wicket_type, player_dismissed, fielder`
-
----
-
-# Project Structure
-
-```
-ipl-2025-sql-analysis/
-│
-├── data/
-│   └── ipl_2025_deliveries.csv
-│
-├── schema/
-│   └── create_table.sql
-│
-├── queries/
-│   ├── 01_batting_analysis.sql
-│
-└── README.md
-```
 
 ---
 
